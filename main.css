@@ -1,0 +1,33 @@
+body{
+    height: 100%;
+    font-family: Monospace;
+    background-color: #f0f0f0;
+    margin: 0px;
+    overflow: hidden;
+
+}
+h3{
+    margin-top:.5em;
+    margin-bottom: .5em;
+}
+#info{
+    position: absolute;
+    right:0;
+    padding: .5em;
+}
+#log{
+    height: auto;
+    top: 25%;
+    width: 10em;
+    padding: .5em;
+    background:#bbbbbb;
+    overflow-y: auto;
+}
+
+#about{
+    height: auto;
+    width: 10em;
+    padding: .5em;
+    background:#bbbbbb;
+    margin-bottom: .5em;
+}
